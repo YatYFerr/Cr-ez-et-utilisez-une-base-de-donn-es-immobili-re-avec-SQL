@@ -1,4 +1,4 @@
-# Créez et utilisez une base de données immobilière avec SQL
+# Traitement de la base de données immobilière utlisisand MySQL
 
 Projet d'analyse des données réalisé chez Laplace Immo, un réseau national d’agences immobilières. 
 Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
